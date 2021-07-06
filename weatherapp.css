@@ -1,0 +1,48 @@
+.form-control
+{
+	width: 30%;
+	padding: 20px;
+	margin: 20px;
+}
+.form-group
+{
+	display: flex;
+	justify-content: center;
+}
+button
+{
+	width:100px;
+	height: 40px;
+	margin-top: 20px;
+}
+form
+{
+	margin-top: 50px;
+}
+h2
+{
+	margin: 20px 0px 20px 20px;
+	font-family: sans-serif;
+}
+#card
+{
+	border: 1px solid black;
+	width: 350px;
+	height: 400px;
+	margin-top: 100px;
+	background-color: cyan;
+	border: none;
+	border-radius: 10px;
+	
+	
+}
+#parent-card
+{
+	display: flex;
+	justify-content: center;
+}
+p
+{
+	text-align: center;
+	margin: 20px;
+}
